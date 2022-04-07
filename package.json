@@ -1,6 +1,6 @@
 {
-  "name": "template-node",
-  "version": "1.0.0",
+  "name": "react-nucleoid",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
