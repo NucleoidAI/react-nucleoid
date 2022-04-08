@@ -1,3 +1,4 @@
-const parser = require("./dist/nucleoidjs-0.5.4/src/libs/parser")
+const { version } = require("./package.json");
+const parser = require(`./dist/nucleoidjs-${version}/src/libs/parser`);
 
 module.exports.parser = parser;
